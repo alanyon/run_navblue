@@ -1,0 +1,1402 @@
+[
+    {
+        "comp": "temp",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "temp",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "temp",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "isa_dev",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "u",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "u",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "v",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "v",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2023",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2021",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2016",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "2006",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "mean"
+    },
+    {
+        "comp": "spd",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "month",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "season",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "quarter",
+        "agg_type": "std"
+    },
+    {
+        "comp": "spd",
+        "year_start": "1996",
+        "year_end": "2026",
+        "agg_period": "year",
+        "agg_type": "std"
+    }
+]

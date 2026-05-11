@@ -1,0 +1,53 @@
+[
+    {
+        "subdir": "temp_10year",
+        "year_start": "2023",
+        "year_end": "2026"
+    },
+    {
+        "subdir": "temp_10year",
+        "year_start": "2021",
+        "year_end": "2026"
+    },
+    {
+        "subdir": "temp_10year",
+        "year_start": "2016",
+        "year_end": "2026"
+    },
+    {
+        "subdir": "temp_30_year",
+        "year_start": "2006",
+        "year_end": "2026"
+    },
+    {
+        "subdir": "temp_30_year",
+        "year_start": "1996",
+        "year_end": "2026"
+    },
+    {
+        "subdir": "wind_10year",
+        "year_start": "2023",
+        "year_end": "2026"
+    },
+    {
+        "subdir": "wind_10year",
+        "year_start": "2021",
+        "year_end": "2026"
+    },
+    {
+        "subdir": "wind_10year",
+        "year_start": "2016",
+        "year_end": "2026"
+    },
+    {
+        "subdir": "wind_30_year",
+        "year_start": "2006",
+        "year_end": "2026"
+    },
+    {
+        "subdir": "wind_30_year",
+        "year_start": "1996",
+        "year_end": "2026"
+    }
+]
+

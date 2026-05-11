@@ -1,0 +1,76 @@
+#!jinja2
+
+{# Import a Python function to load variables. #}
+{% from "load_data" import load_json %}
+
+{# Load data from the specified file. #}
+{% set process_vars = load_json('process_vars.json') %}
+{% set save_vars = load_json('save_vars.json') %}
+
+{# Build a single, ordered, Cylc-safe parameter per entry      #}
+{% set process_entries = [] %}
+{% for p in process_vars %}
+    {% set _ = process_entries.append(
+        p.subdir ~ "__" ~ p.year_start ~ "__" ~ p.year_end
+    ) %}
+{% endfor %}
+{% set save_entries = [] %}
+{% for s in save_vars %}
+    {% set _ = save_entries.append(
+        s.comp ~ "__" ~ s.year_start ~ "__" ~ s.year_end ~ "__" ~ s.agg_period ~ "__" ~ s.agg_type
+    ) %}
+{% endfor %}
+
+
+[scheduler]
+    UTC mode = True # Ignore DST
+    allow implicit tasks = True
+
+[task parameters]
+    process_entry = {{ process_entries | join(', ') }}
+    save_entry = {{ save_entries | join(', ') }}
+
+[scheduling]
+    cycling mode = integer
+    initial cycle point = 1
+    [[queues]]
+        [[[save_queue]]]
+            limit = 10
+            members = save<save_entry>
+
+    [[graph]]
+        R1 = """
+            process<process_entry> => save<save_entry>
+        """
+
+[runtime]
+    [[root]]
+        env-script = eval $(rose task-env)
+        script = rose task-run --verbose
+        platform = spice
+
+        [[[environment]]]
+            CODE_DIR = $ROSE_SUITE_DIR/bin/navblue
+            
+        [[process<process_entry>]]
+            [[[environment]]]
+                ROSE_TASK_APP = process
+                VARS = $CYLC_TASK_PARAM_process_entry
+                DATA_DIR = /data/scratch/lewis.davies/nav_blue_data
+                NAV_DIR = /data/users/andre.lanyon/navblue
+                AGG_PERIOD = month
+            [[[directives]]]
+                --mem = 75GB
+                --ntasks = 4
+                --time = 200
+
+        [[save<save_entry>]]
+            [[[environment]]]
+                ROSE_TASK_APP = save
+                VARS = $CYLC_TASK_PARAM_save_entry
+                DATA_DIR = /data/scratch/lewis.davies/nav_blue_data
+                NAV_DIR = /data/users/andre.lanyon/navblue
+            [[[directives]]]
+                --mem = 75GB
+                --ntasks = 4
+                --time = 300
