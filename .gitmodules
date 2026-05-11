@@ -1,0 +1,3 @@
+[submodule "bin/navblue"]
+	path = bin/navblue
+	url = git@github.com:alanyon/navblue.git
